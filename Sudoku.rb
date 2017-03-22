@@ -12,7 +12,8 @@ class Random
     $m=0
     $e=0
     $i=0
-    $x=0
+vsdlnn mvf c kmbdñl bodf,bmdn bdol hdb   
+   $x=0
     $v=10
     $b=10
     for $o in 0..8
